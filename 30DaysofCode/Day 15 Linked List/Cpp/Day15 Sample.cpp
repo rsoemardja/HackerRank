@@ -17,19 +17,9 @@ class Node
 class Solution {
 public:
 
-	Node insert(Node * const head,const int data)
+	Node insert(Mpde* head, int data)
 	{
-		Node* newNode = new Node(data);
-		Node* tail = head;
-		if (!head) { return newNode; }
 
-		// Locate tail node
-		for (; tail -> next tail = tail->next);
-
-		// Insert at end of list
-		tail->next = newNode;
-
-		return head;
 	}
 
 	void display(Node* head)
