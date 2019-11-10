@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Algorithms",
+    "\\Algorithms\\Warmup",
+    "\\Algorithms\\Warmup\\Simple Array Sum",
+    "\\Algorithms\\Warmup\\Simple Array Sum\\CPP",
+    "\\Algorithms\\Warmup\\Solve Me First"
   ],
+  "SelectedNode": "\\Algorithms\\Warmup\\Simple Array Sum\\CPP",
   "PreviewInSolutionExplorer": false
 }
