@@ -1,12 +1,17 @@
 {
   "ExpandedNodes": [
     "",
+    "\\10DaysofJavaScript",
+    "\\10DaysofJavaScript\\Day0",
+    "\\10DaysofJavaScript\\Day1",
+    "\\10DaysofJavaScript\\Day2",
+    "\\30DaysofCode",
+    "\\30DaysofCode\\Day 3 Intro to Conditional Statements",
+    "\\30DaysofCode\\Day 3 Intro to Conditional Statements\\CPP",
     "\\Algorithms",
     "\\Algorithms\\Warmup",
-    "\\Algorithms\\Warmup\\Simple Array Sum",
-    "\\Algorithms\\Warmup\\Simple Array Sum\\CPP",
     "\\Algorithms\\Warmup\\Solve Me First"
   ],
-  "SelectedNode": "\\Algorithms\\Warmup\\Simple Array Sum\\CPP",
+  "SelectedNode": "\\10DaysofJavaScript\\Day1\\Let and Const Attempt 1.js",
   "PreviewInSolutionExplorer": false
 }
