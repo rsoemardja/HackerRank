@@ -1,17 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\10DaysofJavaScript",
     "\\10DaysofJavaScript\\Day5",
     "\\10DaysofJavaScript\\Day6",
     "\\10DaysofJavaScript\\Day8",
     "\\10DaysofJavaScript\\Day8\\Create a Button",
+    "\\10DaysofStatistics",
     "\\30DaysofCode",
-    "\\30DaysofCode\\Day 13 Abstract Classes",
-    "\\30DaysofCode\\Day 6 Let's Review\\CPP",
-    "\\30DaysofCode\\Day 8 Dictionaries and Maps",
-    "\\30DaysofCode\\Day 8 Dictionaries and Maps\\CPP"
+    "\\Algorithms",
+    "\\Algorithms\\Warmup"
   ],
-  "SelectedNode": "\\30DaysofCode\\Day 13 Abstract Classes\\Cpp\\Day13.cpp",
+  "SelectedNode": "\\Algorithms\\Warmup\\Diagonal Difference",
   "PreviewInSolutionExplorer": false
 }
