@@ -1,17 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\10DaysofJavaScript",
-    "\\10DaysofJavaScript\\Day0",
-    "\\10DaysofJavaScript\\Day1",
-    "\\10DaysofJavaScript\\Day2",
     "\\30DaysofCode",
-    "\\30DaysofCode\\Day 3 Intro to Conditional Statements",
-    "\\30DaysofCode\\Day 3 Intro to Conditional Statements\\CPP",
-    "\\Algorithms",
-    "\\Algorithms\\Warmup",
-    "\\Algorithms\\Warmup\\Solve Me First"
+    "\\30DaysofCode\\Day 10 Binary Numbers",
+    "\\30DaysofCode\\Day 10 Binary Numbers\\CPP",
+    "\\30DaysofCode\\Day 11 2D-Arrays",
+    "\\30DaysofCode\\Day 11 2D-Arrays\\CPP",
+    "\\30DaysofCode\\Day 12 Inheritance",
+    "\\30DaysofCode\\Day 12 Inheritance\\CPP",
+    "\\30DaysofCode\\Day 13 Abstract Classes\\Cpp",
+    "\\30DaysofCode\\Day 9 Recursion",
+    "\\30DaysofCode\\Day 9 Recursion\\CPP"
   ],
-  "SelectedNode": "\\10DaysofJavaScript\\Day1\\Let and Const Attempt 1.js",
+  "SelectedNode": "\\10DaysofJavaScript\\Day9\\binaryCalculator.css",
   "PreviewInSolutionExplorer": false
 }
