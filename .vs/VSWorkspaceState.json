@@ -1,15 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\10DaysofJavaScript\\Day5",
-    "\\10DaysofJavaScript\\Day6",
-    "\\10DaysofJavaScript\\Day8",
-    "\\10DaysofJavaScript\\Day8\\Create a Button",
     "\\10DaysofStatistics",
-    "\\30DaysofCode",
-    "\\Algorithms",
-    "\\Algorithms\\Warmup"
+    "\\10DaysofStatistics\\Day4",
+    "\\10DaysofStatistics\\Day5",
+    "\\10DaysofStatistics\\Day6",
+    "\\10DaysofStatistics\\Day7",
+    "\\10DaysofStatistics\\Day7\\Spearman's Rank Correlation Coefficient",
+    "\\10DaysofStatistics\\Day8",
+    "\\10DaysofStatistics\\Day8\\Least Square Regression Line",
+    "\\10DaysofStatistics\\Day8\\Pearson Correlation Coefficient II"
   ],
-  "SelectedNode": "\\Algorithms\\Warmup\\Diagonal Difference",
+  "SelectedNode": "\\10DaysofStatistics\\Day2",
   "PreviewInSolutionExplorer": false
 }
