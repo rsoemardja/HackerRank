@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\10DaysofStatistics\\Day0",
-    "\\10DaysofStatistics\\Day1",
-    "\\10DaysofStatistics\\Day2",
-    "\\10DaysofStatistics\\Day2\\Basic-Probability",
-    "\\10DaysofStatistics\\Day3",
-    "\\10DaysofStatistics\\Day3\\Cards-of-the-Same-Suit",
-    "\\10DaysofStatistics\\Day4",
-    "\\10DaysofStatistics\\Day8\\Pearson-Correlation-Coefficient-II",
-    "\\10DaysofStatistics\\Day9\\Multiple Linear Regression"
+    "\\Problem Solving",
+    "\\Problem Solving\\Algorithms",
+    "\\Problem Solving\\Algorithms\\Implementation",
+    "\\Problem Solving\\Algorithms\\Implementation\\Circular Array Rotation",
+    "\\Problem Solving\\Algorithms\\Implementation\\Counter Game",
+    "\\Problem Solving\\Algorithms\\Implementation\\Day of the Programmer",
+    "\\Problem Solving\\Algorithms\\Implementation\\Divisible Sum Pairs",
+    "\\Problem Solving\\Algorithms\\Implementation\\Migratory Birds",
+    "\\Problem Solving\\Algorithms\\Implementation\\Time Conversion"
   ],
-  "SelectedNode": "\\Problem Solving",
+  "SelectedNode": "\\Problem Solving\\Algorithms\\Implementation\\Migratory Birds\\Migratory_Birds.py",
   "PreviewInSolutionExplorer": false
 }
