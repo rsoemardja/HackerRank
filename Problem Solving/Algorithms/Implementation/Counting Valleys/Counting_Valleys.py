@@ -13,7 +13,7 @@ def countingValleys(n, s):
         if(s[i]=='U'):
             level+=1
             if(level==0):
-                velley+=1
+                valley+=1
         else:
             level-=1
 
