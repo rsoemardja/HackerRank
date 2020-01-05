@@ -10,7 +10,7 @@ using std::string;
 using std::stringstream;
 using std::vector;
 
-vector<int parseInts(string str) {
+vector<int> parseInts(string str) {
 	stringstream ss(str);
 	char ch; int val;
 	vector<int> ints;
@@ -26,7 +26,7 @@ int main() {
 	string str;
 	cin >> str;
 	vector<int> integers = parseInts(str);
-	for(int i = 0; i < integers.size(); i++) {
+	for (int i = 0; i < integers.size(); i++) {
 		cout << integers[i] << "\n";
 	}
 
