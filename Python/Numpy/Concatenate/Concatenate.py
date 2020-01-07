@@ -6,6 +6,6 @@ N, M, P = map(int, inp)
 
 running_list = []
 for i in range(0, N+M):
-    running_list.append([x for x in input()])
+    running_list.append([x for x in input().split()])
 
-print(nuumpy.array(running_list, int))
+print(numpy.array(running_list, int))
