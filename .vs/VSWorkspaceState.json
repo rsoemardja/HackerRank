@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Problem Solving",
-    "\\Problem Solving\\Algorithms",
-    "\\Problem Solving\\Algorithms\\Implementation",
-    "\\Problem Solving\\Algorithms\\Implementation\\Circular Array Rotation",
-    "\\Problem Solving\\Algorithms\\Implementation\\Counter Game",
-    "\\Problem Solving\\Algorithms\\Implementation\\Day of the Programmer",
-    "\\Problem Solving\\Algorithms\\Implementation\\Divisible Sum Pairs",
-    "\\Problem Solving\\Algorithms\\Implementation\\Migratory Birds",
-    "\\Problem Solving\\Algorithms\\Implementation\\Time Conversion"
+    "\\Python",
+    "\\Python\\Basic Data Types\\Nested Lists",
+    "\\Python\\Classes\\Class 2 - Find the Torsional Angle",
+    "\\Python\\Classes\\Classes Dealing with Complex Numbers",
+    "\\Python\\Numpy\\Eye and Identity",
+    "\\Python\\Numpy\\Floor Ceil and Rint",
+    "\\Python\\XML",
+    "\\Python\\XML\\XML 1 - Find the Score",
+    "\\Python\\XML\\XML2 - Find the Maximum Depth"
   ],
-  "SelectedNode": "\\Problem Solving\\Algorithms\\Implementation\\Migratory Birds\\Migratory_Birds.py",
+  "SelectedNode": "\\Python\\Classes",
   "PreviewInSolutionExplorer": false
 }
