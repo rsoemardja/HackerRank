@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Python",
-    "\\Python\\Basic Data Types\\Nested Lists",
-    "\\Python\\Classes\\Class 2 - Find the Torsional Angle",
-    "\\Python\\Classes\\Classes Dealing with Complex Numbers",
-    "\\Python\\Numpy\\Eye and Identity",
-    "\\Python\\Numpy\\Floor Ceil and Rint",
-    "\\Python\\XML",
-    "\\Python\\XML\\XML 1 - Find the Score",
-    "\\Python\\XML\\XML2 - Find the Maximum Depth"
+    "\\Python\\Strings",
+    "\\Python\\Strings\\Alphabet Rangoli",
+    "\\Python\\Strings\\Capitalize!",
+    "\\Python\\Strings\\Designer Door Mat",
+    "\\Python\\Strings\\Merge the Tools!",
+    "\\Python\\Strings\\String Formatting",
+    "\\Python\\Strings\\Text Wrap",
+    "\\Python\\Strings\\The Minion Game"
   ],
-  "SelectedNode": "\\Python\\Classes",
+  "SelectedNode": "\\Python\\Strings\\Merge the Tools!\\Attempt3.py",
   "PreviewInSolutionExplorer": false
 }
