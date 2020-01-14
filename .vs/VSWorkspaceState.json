@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Python",
-    "\\Python\\Strings",
-    "\\Python\\Strings\\Alphabet Rangoli",
-    "\\Python\\Strings\\Capitalize!",
-    "\\Python\\Strings\\Designer Door Mat",
-    "\\Python\\Strings\\Merge the Tools!",
-    "\\Python\\Strings\\String Formatting",
-    "\\Python\\Strings\\Text Wrap",
-    "\\Python\\Strings\\The Minion Game"
+    "\\Python\\Sets",
+    "\\Python\\Sets\\Check Strict Superset",
+    "\\Python\\Sets\\Check Subset",
+    "\\Python\\Sets\\Set .difference() Operation",
+    "\\Python\\Sets\\Set .intersection() Operation",
+    "\\Python\\Sets\\Set .symmetric_difference() Operation",
+    "\\Python\\Sets\\Set Mutations",
+    "\\Python\\Sets\\The Captain's Room"
   ],
-  "SelectedNode": "\\Python\\Strings\\Merge the Tools!\\Attempt3.py",
+  "SelectedNode": "\\Python\\Sets\\Set .intersection() Operation\\Set.intersection_Operation.py",
   "PreviewInSolutionExplorer": false
 }
