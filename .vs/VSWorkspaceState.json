@@ -1,16 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Python",
-    "\\Python\\Sets",
-    "\\Python\\Sets\\Check Strict Superset",
-    "\\Python\\Sets\\Check Subset",
-    "\\Python\\Sets\\Set .difference() Operation",
-    "\\Python\\Sets\\Set .intersection() Operation",
-    "\\Python\\Sets\\Set .symmetric_difference() Operation",
-    "\\Python\\Sets\\Set Mutations",
-    "\\Python\\Sets\\The Captain's Room"
+    "\\Python\\Math\\Find Angle MBC",
+    "\\Python\\Math\\Integers Come in All size",
+    "\\Python\\Math\\Mod Divmod",
+    "\\Python\\Math\\Polar Coordinates",
+    "\\Python\\Math\\Power - Mod Power",
+    "\\Python\\Math\\Triangle Quest",
+    "\\Python\\Math\\Triangle Quest 2"
   ],
-  "SelectedNode": "\\Python\\Sets\\Set .intersection() Operation\\Set.intersection_Operation.py",
+  "SelectedNode": "\\Python",
   "PreviewInSolutionExplorer": false
 }
