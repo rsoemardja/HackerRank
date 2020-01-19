@@ -1,14 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Python\\Math\\Find Angle MBC",
-    "\\Python\\Math\\Integers Come in All size",
-    "\\Python\\Math\\Mod Divmod",
-    "\\Python\\Math\\Polar Coordinates",
-    "\\Python\\Math\\Power - Mod Power",
-    "\\Python\\Math\\Triangle Quest",
-    "\\Python\\Math\\Triangle Quest 2"
+    "\\Python",
+    "\\Python\\Collections",
+    "\\Python\\Collections\\Collections.deque()",
+    "\\Python\\Collections\\Collections.namedtuple()",
+    "\\Python\\Collections\\Collections.OrderedDict()",
+    "\\Python\\Collections\\Company Logo",
+    "\\Python\\Collections\\DefaultDict Tutorial",
+    "\\Python\\Collections\\Piling Up!",
+    "\\Python\\Collections\\Word Order"
   ],
-  "SelectedNode": "\\Python",
+  "SelectedNode": "\\Python\\Collections\\Company Logo\\Company_Logo.py",
   "PreviewInSolutionExplorer": false
 }
