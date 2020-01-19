@@ -3,14 +3,14 @@
     "",
     "\\Python",
     "\\Python\\Collections",
-    "\\Python\\Collections\\Collections.deque()",
-    "\\Python\\Collections\\Collections.namedtuple()",
-    "\\Python\\Collections\\Collections.OrderedDict()",
-    "\\Python\\Collections\\Company Logo",
-    "\\Python\\Collections\\DefaultDict Tutorial",
-    "\\Python\\Collections\\Piling Up!",
-    "\\Python\\Collections\\Word Order"
+    "\\Python\\Collections\\Word Order",
+    "\\Python\\Date and Time",
+    "\\Python\\Date and Time\\Calendar Module",
+    "\\Python\\Date and Time\\Time Delta",
+    "\\Python\\Errors and Exceptions",
+    "\\Python\\Errors and Exceptions\\Exceptions",
+    "\\Python\\Errors and Exceptions\\Incorrect Regex"
   ],
-  "SelectedNode": "\\Python\\Collections\\Company Logo\\Company_Logo.py",
+  "SelectedNode": "\\Python\\Errors and Exceptions\\Incorrect Regex\\Incorrect_Regex.py",
   "PreviewInSolutionExplorer": false
 }
