@@ -1,4 +1,5 @@
 import numpy
+
 N, M = tuple(map(int, input().split()))
 
 a = numpy.array([input().split() for i in range(0, N)], int)
