@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Python",
-    "\\Python\\Collections",
-    "\\Python\\Collections\\Word Order",
-    "\\Python\\Date and Time",
-    "\\Python\\Date and Time\\Calendar Module",
-    "\\Python\\Date and Time\\Time Delta",
-    "\\Python\\Errors and Exceptions",
-    "\\Python\\Errors and Exceptions\\Exceptions",
-    "\\Python\\Errors and Exceptions\\Incorrect Regex"
+    "\\Python\\Closures and Decorators",
+    "\\Python\\Closures and Decorators\\Standardize Mobile Number Using Decorators",
+    "\\Python\\Debugging",
+    "\\Python\\Debugging\\Default Arguments",
+    "\\Python\\Python Functionals",
+    "\\Python\\Python Functionals\\Map and Lambda Function",
+    "\\Python\\Python Functionals\\Reduce Function",
+    "\\Python\\Python Functionals\\Validating Email Addresses With a Filter"
   ],
-  "SelectedNode": "\\Python\\Errors and Exceptions\\Incorrect Regex\\Incorrect_Regex.py",
+  "SelectedNode": "\\Python\\Debugging\\Default Arguments\\Default_Arguments.py",
   "PreviewInSolutionExplorer": false
 }
