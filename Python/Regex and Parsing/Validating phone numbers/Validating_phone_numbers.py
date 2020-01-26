@@ -1,3 +1,8 @@
+regex_pattern = r""	# Do not delete 'r'.
+
+import re
+print(str(bool(re.match(regex_pattern, input()))))
+
 n=int(raw_input())
 for i in range(0,n):
     tmp_str=raw_input()
