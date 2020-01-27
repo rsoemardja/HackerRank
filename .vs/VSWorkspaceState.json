@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Python",
-    "\\Python\\Closures and Decorators",
-    "\\Python\\Closures and Decorators\\Standardize Mobile Number Using Decorators",
-    "\\Python\\Debugging",
-    "\\Python\\Debugging\\Default Arguments",
     "\\Python\\Python Functionals",
-    "\\Python\\Python Functionals\\Map and Lambda Function",
-    "\\Python\\Python Functionals\\Reduce Function",
-    "\\Python\\Python Functionals\\Validating Email Addresses With a Filter"
+    "\\Python\\Python Functionals\\Validating Email Addresses With a Filter",
+    "\\Python\\Regex and Parsing",
+    "\\Python\\Regex and Parsing\\Re.findall() & Re.finditer()",
+    "\\Python\\Regex and Parsing\\Re.start() & Re.end()",
+    "\\Python\\Regex and Parsing\\Regex Substitution",
+    "\\Python\\Regex and Parsing\\Validating phone numbers",
+    "\\Python\\Regex and Parsing\\Validating Roman Numerals"
   ],
-  "SelectedNode": "\\Python\\Debugging\\Default Arguments\\Default_Arguments.py",
+  "SelectedNode": "\\Python\\Regex and Parsing\\Validating Roman Numerals\\attempt2.py",
   "PreviewInSolutionExplorer": false
 }
