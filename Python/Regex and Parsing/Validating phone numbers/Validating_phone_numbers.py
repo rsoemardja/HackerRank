@@ -1,23 +1,8 @@
-n=int(raw_input())
-for i in range(0,n):
-    tmp_str=raw_input()
-    len_tmp_str=len(tmp_str)
-    if(len_tmp_str!=10):
-        ##print "LENGTH PROBLEM"
-        print "NO"
-    elif(tmp_str[0]!="7" and tmp_str[0]!="8" and tmp_str[0]!="9"):
-        ##print "START PROBLEM"
-        print "NO"
+import re
+
+for _ in range(int(input())):
+    line = input()
+    if re.match(r"^[789]{1}\d{9}$", line):
+        print("YES")
     else:
-        check=1
-        for i in tmp_str:
-            if(i>="0" and i<="9"):
-                continue
-            else:
-                check=0
-                break
-        if(check==1):
-            print "YES"
-        else:
-            ## "NUMBER PROBLEM"
-            print "NO"
+        print("NO")
