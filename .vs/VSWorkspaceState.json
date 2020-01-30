@@ -1,16 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Python",
-    "\\Python\\Python Functionals",
-    "\\Python\\Python Functionals\\Validating Email Addresses With a Filter",
-    "\\Python\\Regex and Parsing",
-    "\\Python\\Regex and Parsing\\Re.findall() & Re.finditer()",
-    "\\Python\\Regex and Parsing\\Re.start() & Re.end()",
-    "\\Python\\Regex and Parsing\\Regex Substitution",
-    "\\Python\\Regex and Parsing\\Validating phone numbers",
-    "\\Python\\Regex and Parsing\\Validating Roman Numerals"
+    "\\C++",
+    "\\C++\\Classes",
+    "\\C++\\Introduction",
+    "\\C++\\Introduction\\Conditional Statements",
+    "\\Problem Solving",
+    "\\Problem Solving\\Algorithms",
+    "\\Ruby"
   ],
-  "SelectedNode": "\\Python\\Regex and Parsing\\Validating Roman Numerals\\attempt2.py",
+  "SelectedNode": "\\C++\\Introduction\\Conditional Statements\\Conditional_Statements.cpp",
   "PreviewInSolutionExplorer": false
 }
