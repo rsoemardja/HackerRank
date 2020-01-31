@@ -2,7 +2,7 @@ def identify_class(obj)
 	# write your case control structure here
 	case obj.class.to_s
 		when "Hacker"
-			puts "It's a Hacker"
+			puts "It's a Hacker!"
 		
 		when "Submission"
 			puts "It's a Submission!"
@@ -14,7 +14,7 @@ def identify_class(obj)
 			puts "It's a Contest!"
 
 		else 
-			puts "It's an unkown model"
+			puts "It's an unknown model"
 	end
 
 end
