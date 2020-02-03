@@ -4,7 +4,7 @@ def square_of_sum (my_array,proc_square, proc_sum)
 end
 
 proc_square_number	= proc { |x| x**2}
-proc_sum_array		= proc { |n| n.reduce(:*) }
+proc_sum_array		= proc { |n| n.reduce(:+) }
 my_array = gets.split().map(&:to_i)
 
 puts square_of_sum(my_array, proc_square_number, proc_sum_array)
