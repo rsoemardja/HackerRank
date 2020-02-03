@@ -1,14 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\C++",
-    "\\C++\\Classes",
-    "\\C++\\Introduction",
-    "\\C++\\Introduction\\Conditional Statements",
-    "\\Problem Solving",
-    "\\Problem Solving\\Algorithms",
-    "\\Ruby"
+    "\\Ruby",
+    "\\Ruby\\Arrays & Hashes",
+    "\\Ruby\\Arrays & Hashes\\Initialization",
+    "\\Ruby\\Methods",
+    "\\Ruby\\Methods\\Blocks",
+    "\\Ruby\\Methods\\Closures",
+    "\\Ruby\\Methods\\Currying",
+    "\\Ruby\\Methods\\Lambdas",
+    "\\Ruby\\Methods\\Lazy Evaluation",
+    "\\Ruby\\Methods\\Partial Applications"
   ],
-  "SelectedNode": "\\C++\\Introduction\\Conditional Statements\\Conditional_Statements.cpp",
+  "SelectedNode": "\\Ruby\\Methods\\Lazy Evaluation\\Lazy Evaluation.rb",
   "PreviewInSolutionExplorer": false
 }
