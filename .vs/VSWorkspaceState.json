@@ -3,15 +3,15 @@
     "",
     "\\Ruby",
     "\\Ruby\\Arrays & Hashes",
+    "\\Ruby\\Arrays & Hashes\\Addition",
+    "\\Ruby\\Arrays & Hashes\\Deletion",
+    "\\Ruby\\Arrays & Hashes\\Index, Part 1",
+    "\\Ruby\\Arrays & Hashes\\Index, Part 2",
     "\\Ruby\\Arrays & Hashes\\Initialization",
+    "\\Ruby\\Arrays & Hashes\\Selection",
     "\\Ruby\\Methods",
-    "\\Ruby\\Methods\\Blocks",
-    "\\Ruby\\Methods\\Closures",
-    "\\Ruby\\Methods\\Currying",
-    "\\Ruby\\Methods\\Lambdas",
-    "\\Ruby\\Methods\\Lazy Evaluation",
     "\\Ruby\\Methods\\Partial Applications"
   ],
-  "SelectedNode": "\\Ruby\\Methods\\Lazy Evaluation\\Lazy Evaluation.rb",
+  "SelectedNode": "\\Ruby\\Arrays & Hashes\\Deletion\\Deletion.rb",
   "PreviewInSolutionExplorer": false
 }
