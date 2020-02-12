@@ -1,17 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Ruby",
-    "\\Ruby\\Arrays & Hashes",
-    "\\Ruby\\Arrays & Hashes\\Addition",
-    "\\Ruby\\Arrays & Hashes\\Deletion",
-    "\\Ruby\\Arrays & Hashes\\Index, Part 1",
-    "\\Ruby\\Arrays & Hashes\\Index, Part 2",
-    "\\Ruby\\Arrays & Hashes\\Initialization",
-    "\\Ruby\\Arrays & Hashes\\Selection",
-    "\\Ruby\\Methods",
-    "\\Ruby\\Methods\\Partial Applications"
+    "\\C++",
+    "\\C++\\Inheritance\\Magic Spells",
+    "\\C++\\Inheritance\\Multi Level Inheritance",
+    "\\C++\\Other Concepts",
+    "\\C++\\Other Concepts\\Bit Array",
+    "\\C++\\Other Concepts\\Cpp Class Template Specialization",
+    "\\C++\\Other Concepts\\Cpp Class Templates",
+    "\\C++\\Other Concepts\\Cpp Variadics",
+    "\\C++\\Strings\\Attribute Parser"
   ],
-  "SelectedNode": "\\Ruby\\Arrays & Hashes\\Deletion\\Deletion.rb",
+  "SelectedNode": "\\C++\\Other Concepts\\Bit Array\\Bit_Array.cpp",
   "PreviewInSolutionExplorer": false
 }

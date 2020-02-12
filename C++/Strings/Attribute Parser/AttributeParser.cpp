@@ -26,6 +26,7 @@ int main() {
 	int N, Q;
 	cin >> N >> Q;
 
+	
 	string line, lines;
 
 	getline(cin, line);
