@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\C++",
-    "\\C++\\Inheritance\\Magic Spells",
-    "\\C++\\Inheritance\\Multi Level Inheritance",
-    "\\C++\\Other Concepts",
-    "\\C++\\Other Concepts\\Bit Array",
-    "\\C++\\Other Concepts\\Cpp Class Template Specialization",
-    "\\C++\\Other Concepts\\Cpp Class Templates",
-    "\\C++\\Other Concepts\\Cpp Variadics",
-    "\\C++\\Strings\\Attribute Parser"
+    "\\Problem Solving",
+    "\\Problem Solving\\Algorithms",
+    "\\Problem Solving\\Algorithms\\Implementation",
+    "\\Problem Solving\\Algorithms\\Implementation\\Circular Array Rotation",
+    "\\Problem Solving\\Algorithms\\Implementation\\Picking Numbers",
+    "\\Problem Solving\\Algorithms\\Implementation\\Save the Prisoner!",
+    "\\Problem Solving\\Algorithms\\Implementation\\The Bomberman Game",
+    "\\Problem Solving\\Algorithms\\Implementation\\The Grid Search",
+    "\\Problem Solving\\Algorithms\\Implementation\\The Hurdle Race"
   ],
-  "SelectedNode": "\\C++\\Other Concepts\\Bit Array\\Bit_Array.cpp",
+  "SelectedNode": "\\Problem Solving\\Algorithms\\Implementation\\Circular Array Rotation\\Circular_Array_Rotation.py",
   "PreviewInSolutionExplorer": false
 }
