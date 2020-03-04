@@ -8,15 +8,45 @@ import sys
 
 # Complete the formingMagicSquare function below.
 def formingMagicSquare(s):
-    p = [[int(i) for i in input().split(" ")] for j in range(3)]
-    s = [[8,1,6,3,5,7,4,9,2],[8,3,4,1,5,9,6,7,2],[2,7,6,9,5,1,4,3,8],[2,9,4,7,5,3,6,1,8], [6,1,8,7,5,3,2,9,4],[6,7,2,1,5,9,8,3,4],[4,3,8,9,5,1,2,7,6],[4,9,2,3,5,7,8,1,6]]
-#Print the minimum cost of converting 's' into a magic square
-r=[] 
+    s = []
+for s_i in range(3):
+   s_t = [int(s_temp) for s_temp in input().strip().split(' ')]
+   s.append(s_t)
+#  Print the minimum cost of converting 's' into a magic square
+
+def rotateGrid(grid):
+    return [[x[i] for x in grid[::-1]] for i in range(len(grid[0]))]
+
+def flipGrid(grid):
+    for i,g in enumerate(grid):
+        grid[i] = grid[i][::-1]
+    return grid
+
+grid = [[4,9,2],
+      [3,5,7],
+      [8,1,6]]
+
+
+cost = 1000
 for i in range(8):
-    r.append(0) 
-    for j in range(9): 
-        r[i]+=abs(s[i][j]-p[int(j//3)][j%3]) 
-print(min(r))
+    #flip
+    if i == 4:
+        grid = flipGrid(grid)
+    else:
+        #rotate
+        grid = rotateGrid(grid)
+    
+    r_s = [item for sublist in s for item in sublist]
+    r_g = [item for sublist in grid for item in sublist]
+    
+    distance = 0
+    for i,j in zip(r_s,r_g):
+        distance += abs(i-j)
+    
+    if distance < cost:
+        cost = distance;
+    
+print (cost)
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
