@@ -3,14 +3,13 @@
     "",
     "\\Problem Solving",
     "\\Problem Solving\\Algorithms",
-    "\\Problem Solving\\Algorithms\\Implementation",
-    "\\Problem Solving\\Algorithms\\Implementation\\Circular Array Rotation",
-    "\\Problem Solving\\Algorithms\\Implementation\\Picking Numbers",
-    "\\Problem Solving\\Algorithms\\Implementation\\Save the Prisoner!",
-    "\\Problem Solving\\Algorithms\\Implementation\\The Bomberman Game",
-    "\\Problem Solving\\Algorithms\\Implementation\\The Grid Search",
-    "\\Problem Solving\\Algorithms\\Implementation\\The Hurdle Race"
+    "\\Problem Solving\\Algorithms\\Strings",
+    "\\Problem Solving\\Algorithms\\Strings\\Beautiful Binary String",
+    "\\Problem Solving\\Algorithms\\Strings\\Separate the Numbers",
+    "\\Problem Solving\\Algorithms\\Strings\\The Love-Letter Mystery",
+    "\\Problem Solving\\Algorithms\\Strings\\Two Characters",
+    "\\Problem Solving\\Algorithms\\Strings\\Weighted Uniform Strings"
   ],
-  "SelectedNode": "\\Problem Solving\\Algorithms\\Implementation\\Circular Array Rotation\\Circular_Array_Rotation.py",
+  "SelectedNode": "\\Problem Solving\\Algorithms\\Strings\\The Love-Letter Mystery\\The_Love-Letter_Mystery.py",
   "PreviewInSolutionExplorer": false
 }
